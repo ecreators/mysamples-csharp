@@ -48,16 +48,61 @@ namespace mysamples.wpf.window
 
             if (window != null)
             {
+                registerWindowClosedEvent(window);
                 ctrl.ShowWindow(window);
             }
         }
 
-        public bool hasWindowOfType<T>()
+        private void registerWindowClosedEvent(Window window)
         {
-            return (from e in windows.Keys
-                    let type = e.ViewController.ContentView?.GetType()
-                    where type == typeof(T)
-                    select e).Any();
+            window.Closed += onWindowClosed;
         }
+
+        private void unregisterWindowClosedEvent(Window window)
+        {
+            window.Closed -= onWindowClosed;
+        }
+
+        private List<(bool found, WindowController controller, int windowId, Window window)> FindWindows(Predicate<(WindowController controller, int windowId, Window window)> filter)
+        {
+            return
+                (from kvp1 in windows
+                    let x = (from kvp2 in kvp1.Value
+                        let data = (controller: kvp1.Key, windowId: kvp2.Key, window: kvp2.Value)
+                        let found = filter?.Invoke(data) ?? true
+                        let r = (found: found, controller: data.controller, windowId: kvp2.Key, window: data.window)
+                        where r.found
+                        select r).ToList()
+                    select x)
+                .SelectMany(inner => inner)
+                .ToList();
+        }
+
+        public void closeAll()
+        {
+            FindWindows(d => true).ForEach(d => d.window.Close());
+        }
+
+        private void onWindowClosed(object sender, EventArgs args)
+        {
+            removeWindow((Window) sender);
+        }
+
+        private void removeWindow(Window wnd)
+        {
+            var wnds = FindWindows(d => d.window.GetHashCode() == wnd.GetHashCode());
+            foreach (var result in wnds)
+            {
+                var cache = windows[result.controller];
+                cache.Remove(result.windowId);
+                unregisterWindowClosedEvent(result.window);
+                if (!cache.Any())
+                {
+                    windows.Remove(result.controller);
+                }
+            }
+        }
+
+        public bool hasWindowOfType<T>() => FindWindows(d => d.window is T).Any();
     }
 }

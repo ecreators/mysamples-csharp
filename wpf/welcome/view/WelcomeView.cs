@@ -1,7 +1,8 @@
 using System.Windows.Controls;
 using mysamples.api.wpf.xaml;
+using mysamples.wpf.welcome.model;
 
-namespace mysamples.wpf.welcome.model
+namespace mysamples.wpf.welcome.view
 {
     internal class WelcomeView : XamlUserControl<Grid, IWelcomeView>, IWelcomeView
     {

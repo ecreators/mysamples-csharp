@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Windows.Input;
 using mysamples.api.command;
+using mysamples.wpf.welcome;
 using mysamples.wpf.welcome.model;
+using mysamples.wpf.welcome.view;
 using mysamples.wpf.window;
 
-namespace mysamples.wpf.welcome.command
+namespace mysamples.wpf.command
 {
     internal class ShowWelcomeWindowCommand : Command
     {

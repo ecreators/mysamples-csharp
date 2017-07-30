@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b75d1cd8-8b61-4aff-bc0c-37a681979a92" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="mysamples" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="36" column="61" lean-forward="false" selection-start-line="36" selection-start-column="61" selection-end-line="36" selection-end-column="61" />
+              <folding>
+                <marker date="1501134445242" expanded="false" signature="6:148" ph="..." />
+                <marker date="1501134445242" expanded="true" signature="169:5864" ph="{...}" />
+                <marker date="1501134445242" expanded="true" signature="198:1387" ph="{...}" />
+                <marker date="1501134445242" expanded="true" signature="271:359" ph="{...}" />
+                <marker date="1501134445242" expanded="true" signature="387:1381" ph="{...}" />
+                <marker date="1501134445242" expanded="true" signature="711:848" ph="/* Das Anzeigeeinstellung-Verwalter und Presenter-Akteur, erklärt und berechnet UI Daten, die ... */" />
+                <marker date="1501134445242" expanded="true" signature="931:1055" ph="/* Dieser Controller erzeugt neue Fenster für diesen Controller ... */" />
+                <marker date="1501134445242" expanded="true" signature="1130:1309" ph="/* Dieser Controller verwaltet Fenster und starte die Anzeige ... */" />
+                <marker date="1501134445242" expanded="true" signature="1393:1485" ph="/// Der WindowManager regelt die Verwaltung und Anzeige ... " />
+                <marker date="1501134445242" expanded="true" signature="1518:2908" ph="{...}" />
+                <marker date="1501134445242" expanded="true" signature="1740:1843" ph="{...}" />
+                <marker date="1501134445242" expanded="true" signature="1968:2902" ph="{...}" />
+                <marker date="1501134445242" expanded="true" signature="2145:2327" ph="{...}" />
+                <marker date="1501134445242" expanded="true" signature="2409:2790" ph="{...}" />
+                <marker date="1501134445242" expanded="true" signature="2562:2776" ph="{...}" />
+                <marker date="1501134445242" expanded="true" signature="2823:2892" ph="{...}" />
+                <marker date="1501134445242" expanded="true" signature="2945:4078" ph="{...}" />
+                <marker date="1501134445242" expanded="true" signature="3018:3076" ph="{...}" />
+                <marker date="1501134445242" expanded="true" signature="3302:3407" ph="{...}" />
+                <marker date="1501134445242" expanded="true" signature="3457:3978" ph="{...}" />
+                <marker date="1501134445242" expanded="true" signature="3870:3941" ph="{...}" />
+                <marker date="1501134445242" expanded="true" signature="4025:4072" ph="{...}" />
+                <marker date="1501134445242" expanded="true" signature="4118:4240" ph="{...}" />
+                <marker date="1501134445242" expanded="true" signature="4327:4535" ph="{...}" />
+                <marker date="1501134445242" expanded="true" signature="4408:4428" ph="{...}" />
+                <marker date="1501134445242" expanded="true" signature="4509:4529" ph="{...}" />
+                <marker date="1501134445242" expanded="true" signature="4639:5309" ph="{...}" />
+                <marker date="1501134445242" expanded="true" signature="4701:4889" ph="{...}" />
+                <marker date="1501134445242" expanded="true" signature="5093:5203" ph="{...}" />
+                <marker date="1501134445242" expanded="true" signature="5283:5303" ph="{...}" />
+                <marker date="1501134445242" expanded="true" signature="5328:5623" ph="{...}" />
+                <marker date="1501134445242" expanded="true" signature="5397:5617" ph="{...}" />
+                <marker date="1501134445242" expanded="true" signature="5458:5517" ph="{...}" />
+                <marker date="1501134445242" expanded="true" signature="5687:5699" ph="{...}" />
+                <marker date="1501134445242" expanded="true" signature="5730:5742" ph="{...}" />
+                <marker date="1501134445242" expanded="true" signature="5789:5862" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoadableUI.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/api/LoadableUI.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <folding>
+                <marker date="1501219982903" expanded="true" signature="6:224" ph="..." />
+                <marker date="1501219982903" expanded="true" signature="249:3325" ph="{...}" />
+                <marker date="1501219982903" expanded="true" signature="256:335" ph="/// LoadableUI is a UI that defines WPF UI ... " />
+                <marker date="1501219982903" expanded="true" signature="384:3323" ph="{...}" />
+                <marker date="1501219982903" expanded="true" signature="471:662" ph="/* benötigt wird ... */" />
+                <marker date="1501219982903" expanded="true" signature="969:1077" ph="{...}" />
+                <marker date="1501219982903" expanded="true" signature="1131:1353" ph="{...}" />
+                <marker date="1501219982903" expanded="true" signature="1192:1343" ph="{...}" />
+                <marker date="1501219982903" expanded="true" signature="1539:1881" ph="{...}" />
+                <marker date="1501219982903" expanded="true" signature="1731:1786" ph="{...}" />
+                <marker date="1501219982903" expanded="true" signature="1912:1978" ph="{...}" />
+                <marker date="1501219982903" expanded="true" signature="2007:2949" ph="{...}" />
+                <marker date="1501219982903" expanded="true" signature="2047:2104" ph="{...}" />
+                <marker date="1501219982903" expanded="true" signature="2216:2352" ph="{...}" />
+                <marker date="1501219982903" expanded="true" signature="2263:2338" ph="{...}" />
+                <marker date="1501219982903" expanded="true" signature="2454:2702" ph="{...}" />
+                <marker date="1501219982903" expanded="true" signature="2532:2688" ph="{...}" />
+                <marker date="1501219982903" expanded="true" signature="3007:3317" ph="{...}" />
+                <marker date="1501219982903" expanded="true" signature="3092:3280" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoadableUITest.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/api/LoadableUITest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+              <folding>
+                <marker date="1501220388210" expanded="true" signature="6:65" ph="..." />
+                <marker date="1501220388210" expanded="true" signature="95:709" ph="{...}" />
+                <marker date="1501220388210" expanded="true" signature="145:707" ph="{...}" />
+                <marker date="1501220388210" expanded="true" signature="299:339" ph="{...}" />
+                <marker date="1501220388210" expanded="true" signature="435:475" ph="{...}" />
+                <marker date="1501220388210" expanded="true" signature="549:589" ph="{...}" />
+                <marker date="1501220388210" expanded="true" signature="661:701" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/api/LoadableUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/api/LoadableUITest.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/api/LoadableUI.cs" />
+        <option value="$PROJECT_DIR$/test/api/LoadableUITest.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysamples (1 project)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysamples" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysamples (1 project)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysamples" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysamples (1 project)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysamples" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b75d1cd8-8b61-4aff-bc0c-37a681979a92" name="Default" comment="" />
+      <created>1501107363090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1501107363090</updated>
+      <workItem from="1501107367128" duration="6091000" />
+      <workItem from="1501217014542" duration="3385000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9476000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31813127" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.185836" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1501134445242" expanded="false" signature="6:148" ph="..." />
+            <marker date="1501134445242" expanded="true" signature="169:5864" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="198:1387" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="271:359" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="387:1381" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="711:848" ph="/* Das Anzeigeeinstellung-Verwalter und Presenter-Akteur, erklärt und berechnet UI Daten, die ... */" />
+            <marker date="1501134445242" expanded="true" signature="931:1055" ph="/* Dieser Controller erzeugt neue Fenster für diesen Controller ... */" />
+            <marker date="1501134445242" expanded="true" signature="1130:1309" ph="/* Dieser Controller verwaltet Fenster und starte die Anzeige ... */" />
+            <marker date="1501134445242" expanded="true" signature="1393:1485" ph="/// Der WindowManager regelt die Verwaltung und Anzeige ... " />
+            <marker date="1501134445242" expanded="true" signature="1518:2908" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="1740:1843" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="1968:2902" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="2145:2327" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="2409:2790" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="2562:2776" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="2823:2892" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="2945:4078" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="3018:3076" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="3302:3407" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="3457:3978" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="3870:3941" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="4025:4072" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="4118:4240" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="4327:4535" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="4408:4428" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="4509:4529" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="4639:5309" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="4701:4889" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="5093:5203" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="5283:5303" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="5328:5623" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="5397:5617" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="5458:5517" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="5687:5699" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="5730:5742" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="5789:5862" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="36" column="61" lean-forward="false" selection-start-line="36" selection-start-column="61" selection-end-line="36" selection-end-column="61" />
+          <folding>
+            <marker date="1501134445242" expanded="false" signature="6:148" ph="..." />
+            <marker date="1501134445242" expanded="true" signature="169:5864" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="198:1387" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="271:359" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="387:1381" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="711:848" ph="/* Das Anzeigeeinstellung-Verwalter und Presenter-Akteur, erklärt und berechnet UI Daten, die ... */" />
+            <marker date="1501134445242" expanded="true" signature="931:1055" ph="/* Dieser Controller erzeugt neue Fenster für diesen Controller ... */" />
+            <marker date="1501134445242" expanded="true" signature="1130:1309" ph="/* Dieser Controller verwaltet Fenster und starte die Anzeige ... */" />
+            <marker date="1501134445242" expanded="true" signature="1393:1485" ph="/// Der WindowManager regelt die Verwaltung und Anzeige ... " />
+            <marker date="1501134445242" expanded="true" signature="1518:2908" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="1740:1843" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="1968:2902" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="2145:2327" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="2409:2790" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="2562:2776" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="2823:2892" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="2945:4078" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="3018:3076" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="3302:3407" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="3457:3978" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="3870:3941" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="4025:4072" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="4118:4240" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="4327:4535" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="4408:4428" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="4509:4529" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="4639:5309" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="4701:4889" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="5093:5203" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="5283:5303" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="5328:5623" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="5397:5617" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="5458:5517" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="5687:5699" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="5730:5742" ph="{...}" />
+            <marker date="1501134445242" expanded="true" signature="5789:5862" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/LoadableUI.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <marker date="1501219982903" expanded="true" signature="6:224" ph="..." />
+            <marker date="1501219982903" expanded="true" signature="249:3325" ph="{...}" />
+            <marker date="1501219982903" expanded="true" signature="256:335" ph="/// LoadableUI is a UI that defines WPF UI ... " />
+            <marker date="1501219982903" expanded="true" signature="384:3323" ph="{...}" />
+            <marker date="1501219982903" expanded="true" signature="471:662" ph="/* benötigt wird ... */" />
+            <marker date="1501219982903" expanded="true" signature="969:1077" ph="{...}" />
+            <marker date="1501219982903" expanded="true" signature="1131:1353" ph="{...}" />
+            <marker date="1501219982903" expanded="true" signature="1192:1343" ph="{...}" />
+            <marker date="1501219982903" expanded="true" signature="1539:1881" ph="{...}" />
+            <marker date="1501219982903" expanded="true" signature="1731:1786" ph="{...}" />
+            <marker date="1501219982903" expanded="true" signature="1912:1978" ph="{...}" />
+            <marker date="1501219982903" expanded="true" signature="2007:2949" ph="{...}" />
+            <marker date="1501219982903" expanded="true" signature="2047:2104" ph="{...}" />
+            <marker date="1501219982903" expanded="true" signature="2216:2352" ph="{...}" />
+            <marker date="1501219982903" expanded="true" signature="2263:2338" ph="{...}" />
+            <marker date="1501219982903" expanded="true" signature="2454:2702" ph="{...}" />
+            <marker date="1501219982903" expanded="true" signature="2532:2688" ph="{...}" />
+            <marker date="1501219982903" expanded="true" signature="3007:3317" ph="{...}" />
+            <marker date="1501219982903" expanded="true" signature="3092:3280" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/api/LoadableUITest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <marker date="1501220388210" expanded="true" signature="6:65" ph="..." />
+            <marker date="1501220388210" expanded="true" signature="95:709" ph="{...}" />
+            <marker date="1501220388210" expanded="true" signature="145:707" ph="{...}" />
+            <marker date="1501220388210" expanded="true" signature="299:339" ph="{...}" />
+            <marker date="1501220388210" expanded="true" signature="435:475" ph="{...}" />
+            <marker date="1501220388210" expanded="true" signature="549:589" ph="{...}" />
+            <marker date="1501220388210" expanded="true" signature="661:701" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

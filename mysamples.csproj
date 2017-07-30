@@ -101,10 +101,10 @@
     <Compile Include="src\api\wpf\xaml\XamlNamespace.cs" />
     <Compile Include="src\api\wpf\xaml\XamlReferenceInitiator.cs" />
     <Compile Include="src\api\wpf\xaml\XamlUserControl.cs" />
-    <Compile Include="wpf\welcome\command\ShowWelcomeWindowCommand.cs" />
-    <Compile Include="wpf\welcome\model\IWelcomeView.cs" />
+    <Compile Include="wpf\command\ShowWelcomeWindowCommand.cs" />
     <Compile Include="wpf\welcome\model\WelcomeModel.cs" />
-    <Compile Include="wpf\welcome\model\WelcomeView.cs" />
+    <Compile Include="wpf\welcome\view\IWelcomeView.cs" />
+    <Compile Include="wpf\welcome\view\WelcomeView.cs" />
     <Compile Include="wpf\welcome\WelcomeViewController.cs" />
     <Compile Include="wpf\window\IViewController.cs" />
     <Compile Include="wpf\window\IViewHandler.cs" />
@@ -117,7 +117,7 @@
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="src\api\wpf\designer\WPFDesigner.xaml" />
-    <EmbeddedResource Include="wpf\welcome\model\WelcomeView.xaml" />
+    <EmbeddedResource Include="wpf\welcome\view\WelcomeView.xaml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
